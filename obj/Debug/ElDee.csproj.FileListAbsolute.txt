@@ -1,0 +1,11 @@
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\bin\Debug\ElDee.exe.config
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\bin\Debug\ElDee.exe
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\bin\Debug\ElDee.pdb
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.Properties.Resources.resources
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.csproj.GenerateResource.Cache
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.exe
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.pdb
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.MainForm.resources
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.AddStudent.resources
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.UpdateStudentForm.resources
+C:\Users\FiLoY\Desktop\1course\ElDee\ElDee\obj\Debug\ElDee.csprojResolveAssemblyReference.cache
